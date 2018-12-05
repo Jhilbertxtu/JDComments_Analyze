@@ -7,6 +7,7 @@
 cut.py:为处理语料数据    
 word2vec.py:根据wiki语料生成评论训练集   
 svm.py:svm训练并测试新评论    
+JDcomments_Spider.py:爬虫
 
 数据datas:   
 phone_comments_neg.txt:原始负面评论   
